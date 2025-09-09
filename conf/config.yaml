@@ -2,7 +2,7 @@ defaults:
   - override hydra/job_logging: default
 
 device: ["cuda"]
-num_epochs: [2]
+num_epochs: [10]
 lr_decay_epoch: [7] # 0.1 decay
 
 feature_pass: ['triangle', 'persistence']
@@ -17,10 +17,10 @@ prob_of_using_new_values: [1.0, 0.75, 0.5, 0.25]
 
 num_layers: [2, 3, 4, 5, 6, 7]
 
-l2_lambda: [0] 
+l2_lambda: [0]
 seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-# dataset 
+# dataset
 # cifar10 [3072, 10]
 # mnist, fashion_mnist [784, 10]
 

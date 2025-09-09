@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   sodipodi:docname="NewBackprop.svg"
+   inkscape:export-filename="OnlineBackprop.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1292.5912"
+     inkscape:cy="597.50523"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="472"
+       y="846"
+       width="474"
+       height="246"
+       id="rect50" />
+    <rect
+       x="69.20237"
+       y="349.47195"
+       width="139.49193"
+       height="64.403542"
+       id="rect1" />
+    <rect
+       x="69.20237"
+       y="349.47195"
+       width="112.00871"
+       height="73.851158"
+       id="rect1-7" />
+    <rect
+       x="69.20237"
+       y="349.47195"
+       width="135.99312"
+       height="77.79483"
+       id="rect1-7-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:37.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       transform="translate(700.40104,-40.008022)"><tspan
+         x="69.203125"
+         y="382.50388"
+         id="tspan90"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan59">X</tspan><tspan
+           style="font-size:13.3333px;baseline-shift:super"
+           id="tspan83">nxk</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan88">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-9"
+       style="font-size:37.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7);display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       transform="translate(853.66395,-39.213802)"><tspan
+         x="69.203125"
+         y="382.50388"
+         id="tspan95"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan91">H</tspan><tspan
+           style="font-size:13.3333px;baseline-shift:super"
+           id="tspan92">nxs</tspan><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan93">1</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan94">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1084.795"
+       y="342.58878"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="1084.795"
+         y="342.58878">O<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:super"
+   id="tspan23">nxs</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9">1</tspan></tspan></text>
+    <image
+       width="61.850677"
+       height="19.268997"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image1"
+       x="831.466"
+       y="320.32559" />
+    <image
+       width="61.850677"
+       height="19.268997"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image1-6"
+       x="1005.2902"
+       y="320.69907" />
+    <text
+       xml:space="preserve"
+       id="text1-9-5"
+       style="font-size:37.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7-3);display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       transform="translate(1196.6937,-39.266752)"><tspan
+         x="69.203125"
+         y="382.50388"
+         id="tspan100"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan96">H</tspan><tspan
+           style="font-size:13.3333px;baseline-shift:super"
+           id="tspan97">nxs</tspan><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan98">2</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+           id="tspan99">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1443.3503"
+       y="342.25357"
+       id="text8-8"><tspan
+         sodipodi:role="line"
+         id="tspan8-9"
+         x="1443.3503"
+         y="342.25357">O<tspan
+   style="font-size:13.3333px;baseline-shift:super"
+   id="tspan26">nxs</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan11">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1615.0446"
+       y="341.47501"
+       id="text8-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan8-9-6"
+         x="1615.0446"
+         y="341.47501">Out <tspan
+   style="font-size:13.3333px;baseline-shift:super"
+   id="tspan29">nx1</tspan></tspan></text>
+    <image
+       width="61.850677"
+       height="19.268997"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image1-3"
+       x="1172.5198"
+       y="319.99039" />
+    <image
+       width="61.850677"
+       height="19.268997"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAD2tJREFU&#10;eJzt3VnMbXddxvHveU9rAUuIpaQFOonpAIkdKEIYWyeg0lImEQEVEZFJuGXGEC+YMdFYphY1MheD&#10;CmUejPFCjegFJRBaUEvbRApCW1pLJy92z0vpe057zulae/Vd6/NJ/hfd7+7Jf/1unmevvfZaBQAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADC8HVNvAIC1Oqz6lepR1YOqY6t7VgdXV1dX&#10;VRdVF1b/VH2m+p9JdgoA3Ckb1VOrT1c3VDfvw7rhlv/vKbf8OwDANnB29fX2LfT3tL5WnbXe7QMA&#10;++I+1d81TPDfdn2sOnR9hwIA7I2HV5c2TvjvWpdWD1vXAQEAt++M6oeNG/671g+rJ6znsACAPTm9&#10;urb1hP+u9aPqyWs4NgBgN06ovt96w18JAIAJHVR9uWnCf9e6ofrNsQ8UAPix1zdt+CsBALBmx7T+&#10;7/3v6OuAp415wABAndP0ob+7MwHPGvOgAWDJDqmuafrA3926vnr6eIcOAMv1gqYP+js6E/Ds0Y4e&#10;ABbqM00f8ntzJuAZYw0AAJbmwFaP75064Pf2TMBvjTMGAFiWk5o+2Pe1BDxzlEkAwIL8etOH+v6U&#10;gN8eYxjsu42pNwDAfrnf1BvYDzur83Jh4F2CAgCwPf301BvYTzurv6h+Z+J9LJ4CAMC67azOzdcB&#10;k1IAALanq6bewJ20s3pvzgRMRgEA2J4un3oDA9hoVQJeMPVGAGC7+Pmmv6p/qHVj9dxhxwMA83RA&#10;dWXTh/dQ66bqhYNOCABm6lNNH9xDnwl43qATYo92Tr0BAPbbPaqzpt7EgHa0Op7vVP868V4A4C7r&#10;Z7rrPg74zn4d8PwB58RuOAMAsH39X6s7Av7C1BsZ2I7qzOqKnAkAgN06pnmeBdh1JsBPBEfiDADA&#10;9vb9Vo8GPn3ifYxhR/WE6rvVv0y8FwC4y7lb9e9N/4l9zDMBLxpsWgAwI8e1OhswdViPWQJeMti0&#10;AGBGTquubfqwHrMEvHSwaQHAjJxVXdf0Ya0EAMCandH8zwS8bLBpAcCMPL55l4Cbq5cPNi0AmJEl&#10;lIBXDDYtAJiRx6UEAMAiLaEEvHKwaQHAjDy2+d4yeNd61WDTAoAZUQIAYKF+tfmXgFcPNi0AmJHT&#10;qqubPqiVAABYs8c0/xLwmsGmBQAz8pjqqqYP6jHXawebFgDMyKNTAgBgkZZQAl432LQAYEaWUALe&#10;MNi0AGBGHlVd2fRBrQQAwJopAQCwUI9s/iXgjYNNCwBmRAkAgIVaQgl402DTAoAZeUT1g6YP6jHX&#10;mwebFgDMiBIAAAv18OZfAt4y2LQAYEZOrb7X9EGtBADAmi2hBLx1sGkBwIycWn236YN6zPW2waYF&#10;ADPy4JQAAFikJZSAt1c7hhoYAMzFKc2/BJyTEgAAW5xSXdH0QT3mekdKAABsoQQAwEKd3PxLwDtT&#10;AgBgiyWUgHelBADAFidX32n6oB67BGwMNTAAmIuTUgIAYJGWUALenRIAAFuc2PxLwHtSAgBgiwdW&#10;lzd9UCsBALBmSygB56YEAMAWJ1SXNX1QKwEAsGZLKAHnpQQAwBZKAAAs1PHNvwS8v9o51MAAYC6O&#10;ry5t+qAec32gOmCogQHAXCgBALBQxzX/EvDBlAAA2EIJAICFOq76dtMH9ZjrQykBALDFsSkBALBI&#10;SygBH04JAIAtjq0uafqgVgIAYM2Oqb7V9EE95vpISgAAbHF0yygBBw41MACYi6OrbzZ9UI+5zk8J&#10;AIAtlAAAWKgllICPpgQAwBZHVRc3fVCPuT5eHTTUwABgLpQAAFioJZSAT6QEAMAWR1UXNX1QKwEA&#10;sGZHNv8ScEF1t6EGBgBzoQQAwEIdWX2j6YN6zPXJlAAA2OKIlAAAWKTDq682fVArAQCwZksoAZ9K&#10;CQCALQ6vLmz6oB5zfbq6+1ADA4C5OCwlAAAWSQkAgIU6rPpK0wf1mOsz7WMJ2LEvb76VndVDq1+s&#10;Tq1OqO5bHZzHGALAFD5bnV1duzdv3tcCcGT14urZ1f338f8FAMb1uVYl4Jo7euPeFoD7VH9cPaf6&#10;qf3eFgAwts9XT+wOSsDeFIBnVn9aHTLApgCA8X2hOqvbKQG3VwAOrP68et7AmwIAxvfF6sz2UAL2&#10;VADuUZ1fnTHSpgCA8X2pekK7KQG7KwAHVn+b8AeAOfhcqxLwo1u/uHM3b3xn9Rvr2BEAMLoHtLoX&#10;wsdv/eJtC8CzWl3tDwDMx6nV11vdEKn6ya8A7l19rTp0zZsCAMb3ver46or6yTMAf1I9eoodAQCj&#10;u3t1z+oT9eMzAEdUF+cmPwAwZ9dXP1ddsnHLCy9J+APA3B1YvahWZwA2qv9qdRYAAJi3S6pjNqqH&#10;JfwBYCmOrB6y0eqRvgDAcpy20eq3gQDAcjx0o9VvAgGA5Th2o7rv1LsAANbq/juq6/ITQABYkus2&#10;7vg9AMDM3LxRXT31LgCAtbp6o7p86l0AAGt16UarxwMCAMvxjY3q36beBQCwVv+8UX1h6l0AAGv1&#10;D7seBvSfre4NDADM2393y8OAbqreN/FmAID1eF91845b/uOI6uLcEAgA5uy66gHVZbtuBPTt6rzp&#10;9gMArMG51WVVO2714iGtfhJ46BQ7AgBG9b1WDwC8olYXAN76D384xY4AgNG9sFvCv2rnbf74lVZP&#10;B3zIOncEAIzqHdWbbv3Cjt28aWd1fvWkdewIABjVBdXZ1Q23fvG2ZwCqbq7+vjqlOnb8fQEAI/lS&#10;qw/01932D7srAFXXVx+p7pOvAwBgO/pidWZ1ze7+uKcCUKsbBH2i+lp1enWPoXcGAIziC9VZ7SH8&#10;6/YLwC4XtrpHwMHVidUBg2wNABjD56sndjvhX3tXAKqubXURwXurH1VHV/e6M7sDAAb3uVYX/N1u&#10;+NfufwWwNzZaXRvwS9WprW4scP9WZwncThgA1u+zrcL/2qk3AgB3BYe1+jr75hmvz1R3H2pgALDd&#10;LSH8P53wB4BNhyf8AWBRDq++2vQBPeb6VHW3oQYGANud8AeAhTmi+kbTB/SY65MJfwDYdGTCHwAW&#10;5cjqoqYP6DHXBQl/ANgk/AFgYZYQ/p+oDhpqYACw3R2V8AeARTmqurjpA3rM9fGEPwBsEv4AsDBH&#10;Vd9s+oAec320OnCogQHAdnd08w//8xP+ALBJ+APAwhxdfavpA3rM9ZGEPwBsOibhDwCLckzzD/8P&#10;VwcMNC8A2PaOrb7d9AEt/AFgTZYQ/h9K+APAJuEPAAtzXPMP/w8m/AFg03HVpU0f0MIfANbk+OYf&#10;/h9I+APAJuEPAAuzhPB/f7VzqIEBwHZ3QnVZ0wf0mOu8amOogQHAdif8AWBhlhD+5yb8AWDTA6vL&#10;mz6ghT8ArMkSwv89CX8A2HRi9Z2mD2jhDwBrclLzD/93J/wBYNMSwv9dCX8A2HRywh8AFuXk6oqm&#10;D+ixw3/HUAMDgO1uCeH/zoQ/AGw6pfmH/zsS/gCwSfgDwMKcUn236QN6zHVOwh8ANj24+Yf/2xP+&#10;ALBpCeH/tsGmBQAzcGrCHwAW5dTqe00f0GOutw42LQCYAeEPAAvz8OoHTR/QY663DDYtAJiBRzT/&#10;8H/zYNMCgBkQ/gCwMI+ormz6gB5zvWmwaQHADDwy4Q8Ai7KE8H/jYNMCgBl4VPMP/zcMNi0AmAHh&#10;DwAL8+jqqqYPaOEPAGuyhPB/3WDTAoAZWEL4v3awaQHADDwm4Q8Ai7KE8H/NYNMCgBk4rbq66QNa&#10;+APAmvxqdU3TB/SY69WDTQsAZuCxzT/8XzXYtABgBoQ/ACzM46prmz6gx1yvHGxaADADSwj/Vww2&#10;LQCYgccn/AFgUZYQ/i8fbFoAMANnJPwBYFHmHv43VS8bbFoAMANnVdc1fUiPGf4vHWxaADADpzf/&#10;T/7CHwBu5YTqB00f0mOG/0sGmxYAzMDdqv9o+pAeM/xfNNi0AGAmXt/0Ie2TPwCs0c823+/9b6pe&#10;MNyoAGA+zmn6oB4r/F884JwAYDYOaZ5P97upev6AcwKAWfmDpg/rMcLfBX8AcDs+3fSBPeS6sXre&#10;oBMCgJk5oLqy6UN7yE/+Lxx0QgAwQyc2fWgP+cn/ucOOBwDm6WlNH9xDhf9zhh0Ne+OAqTcAwH65&#10;39QbGMBNrT75/+XUG1mijak3AMB+OXjqDdxJN1a/m/CfjAIAwLrdWP1e9VdTb2TJfAUAsD1dPfUG&#10;9tOu7/z/euJ9LJ4zAADb02VTb2A/7DrtL/wBYD+d1PRX8O/LuqF65iiTAIAFOaC6qumDfW/D/9nj&#10;jAEAlmc73Ar4+uoZYw0AAJbo95s+4O/ok/+zRjt6AFioQ6ofNn3Q7+mT/9PHO3QAWLY/a/qw390n&#10;fxf8AcCIjq6uafrQ37V+1Oo5BQDAyP6o6YN/V/g/ddxDBQB2Oaj6ctOH/1PGPlAA4CcdV/1v04X/&#10;k8c/RABgdx5TXdv6w/9J6zg4AGDPHt/qQUHrCP+rq19bz2EBAHfkYdW3Gzf8L6keuq4DAgD2zqHV&#10;xxon/P+muvf6DgUA2FdnVl9tmOC/MKf8AWDb2Gh1od4FrW7Ru68X+V1QnX3Lv8NM7Jh6AwCs1aHV&#10;L1ePrh5UHVvds7pX9f3qyuqiVmcN/rH6fPXdSXYKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAwLbz//tn7Hgm50bAAAAAAElFTkSuQmCC&#10;"
+       id="image1-6-6"
+       x="1346.3439"
+       y="320.3638" />
+    <image
+       width="61.850677"
+       height="19.268997"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image1-6-6-0"
+       x="1529.0771"
+       y="318.20145" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="832.78394"
+       y="391.37033"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="832.78394"
+         y="391.37033">W<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;baseline-shift:super"
+   id="tspan17">kxs</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan13">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1176.4034"
+       y="387.91995"
+       id="text12-7"><tspan
+         id="tspan12-6"
+         x="1176.4034"
+         y="387.91995"
+         sodipodi:role="line">W<tspan
+   style="font-size:13.3333px;baseline-shift:super"
+   id="tspan24">sxs</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan14">2</tspan></tspan></text>
+    <g
+       id="g3"
+       transform="translate(1328.1994,-4.4430522)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+         x="196.37277"
+         y="392.56845"
+         id="text12-74"><tspan
+           sodipodi:role="line"
+           id="tspan12-5"
+           x="196.37277"
+           y="392.56845">W<tspan
+   style="font-size:13.3333px;baseline-shift:super"
+   id="tspan27">sx1</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan15">3</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="998.34857"
+       y="394.45749"
+       id="text16"><tspan
+         sodipodi:role="line"
+         x="998.34857"
+         y="394.45749"
+         id="tspan22">Act</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1343.3171"
+       y="389.98282"
+       id="text16-4"><tspan
+         sodipodi:role="line"
+         id="tspan16-3"
+         x="1343.3171"
+         y="389.98282">Act</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:4.93438;paint-order:fill markers stroke"
+       id="rect27"
+       width="0.79841965"
+       height="159.58421"
+       x="824.72064"
+       y="256.68314"
+       ry="0.29335335" />
+    <rect
+       style="fill:#000000;stroke-width:4.93438;paint-order:fill markers stroke"
+       id="rect27-3"
+       width="0.79841965"
+       height="159.58421"
+       x="1151.9913"
+       y="261.60486"
+       ry="0.29335335" />
+    <rect
+       style="fill:#000000;stroke-width:7.51126;paint-order:fill markers stroke"
+       id="rect27-3-3"
+       width="0.79841965"
+       height="369.78583"
+       x="1151.2218"
+       y="562.22186"
+       ry="0.67975342" />
+    <rect
+       style="fill:#000000;stroke-width:7.39253;paint-order:fill markers stroke"
+       id="rect27-3-3-4"
+       width="0.79841965"
+       height="358.18756"
+       x="1525.9497"
+       y="575.82886"
+       ry="0.65843308" />
+    <rect
+       style="fill:#000000;stroke-width:4.93438;paint-order:fill markers stroke"
+       id="rect27-5"
+       width="0.79841965"
+       height="159.58421"
+       x="1521.8259"
+       y="262.48798"
+       ry="0.29335335" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="939.53949"
+       y="275.25024"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         x="939.53949"
+         y="275.25024"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Layer 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1300.5626"
+       y="274.75226"
+       id="text28-7"><tspan
+         sodipodi:role="line"
+         id="tspan28-3"
+         x="1300.5626"
+         y="274.75226"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Layer 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1613.3514"
+       y="274.81537"
+       id="text28-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan28-3-4"
+         x="1613.3514"
+         y="274.81537"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Layer 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1199.5862"
+       y="206.49347"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         x="1199.5862"
+         y="206.49347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Stage 1: Forward Pass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="971.38354"
+       y="491.31757"
+       id="text31-8"><tspan
+         sodipodi:role="line"
+         id="tspan31-5"
+         x="971.38354"
+         y="491.31757"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Stage 2: Weight update during backpropagation </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="1592.823"
+       y="460.64279"
+       id="text31-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan31-5-8"
+         x="1592.823"
+         y="460.64279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Loss calculation:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:pre;inline-size:762.208;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="770.47498"
+       y="396.81458"
+       id="text32"
+       transform="translate(823.27622,114.28506)"><tspan
+         x="770.47498"
+         y="396.81458"
+         id="tspan106"><tspan
+           style="baseline-shift:baseline"
+           id="tspan101">Loss = MSE(Out</tspan><tspan
+           style="baseline-shift:super"
+           id="tspan102">nx1</tspan><tspan
+           style="baseline-shift:baseline"
+           id="tspan103">, Target</tspan><tspan
+           style="baseline-shift:super"
+           id="tspan104">nx1</tspan><tspan
+           style="baseline-shift:baseline"
+           id="tspan105">) </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3"
+       transform="translate(1351.0703,402.91787)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan110">dLoss/dW<tspan
+   style="font-size:17.3333px;baseline-shift:sub"
+   id="tspan107">3</tspan>=O<tspan
+   style="baseline-shift:super"
+   id="tspan108">T</tspan><tspan
+   style="baseline-shift:sub"
+   id="tspan109">2 </tspan>@ d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7"
+       transform="translate(1353.9726,341.18371)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan111">d = dLoss/dOut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-1"
+       transform="translate(1244.4017,711.08711)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:2186.03;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-0"
+       transform="translate(1350.1877,280.02453)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan112">dLoss/dOut =2/N(Out - Target)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0"
+       transform="translate(970.74324,200.18978)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan116">dLoss/dO<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan113">2</tspan>=d @ W<tspan
+   style="baseline-shift:super"
+   id="tspan114">T</tspan><tspan
+   style="font-size:17.3333px;baseline-shift:sub"
+   id="tspan115">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1"
+       transform="translate(966.4141,310.87586)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan119">dLoss / dH<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan117">2</tspan> = d ⊙ Act'(H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan118">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-84"
+       transform="translate(963.9517,371.18391)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan121">d = dLoss / dH<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan120">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-84-4"
+       transform="translate(964.79086,485.80434)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan123">d = dLoss / dW<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan122">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:522.45;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-5"
+       transform="translate(963.23451,429.94134)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan127">dLoss / dW<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan124">2 </tspan>= H<tspan
+   style="baseline-shift:super"
+   id="tspan125">T</tspan><tspan
+   style="font-size:17.3333px;baseline-shift:sub"
+   id="tspan126">2</tspan> @ d  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-6"
+       transform="translate(968.44633,254.78695)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan129">d = dLoss/dO<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan128">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-3"
+       transform="translate(589.27716,233.42368)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan133">dLoss/dO<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan130">1</tspan>=d @ W<tspan
+   style="baseline-shift:super"
+   id="tspan131">T</tspan><tspan
+   style="baseline-shift:sub"
+   id="tspan132">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-7"
+       transform="translate(585.93876,353.02561)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan136">dLoss / dH<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan134">1</tspan> = d ⊙ Act'(H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan135">1</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-84-7"
+       transform="translate(581.49506,415.31496)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan138">d = dLoss / dH<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan137">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:522.45;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-5-5"
+       transform="translate(578.79656,479.02561)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan142">dLoss / dW<tspan
+   style="font-size:17.3333px;baseline-shift:sub"
+   id="tspan139">1</tspan> = H<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan140">T</tspan><tspan
+   style="baseline-shift:sub"
+   id="tspan141">1</tspan> @ d  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:522.45;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-5-5-0"
+       transform="translate(572.10268,536.19123)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan146">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan143">1</tspan> = W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan144">1</tspan> - lr * (dLoss / dW<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan145">1</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:522.45;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-5-5-0-5"
+       transform="translate(962.16052,539.34103)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan150">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan147">2</tspan> = W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan148">2</tspan> - lr * (dLoss / dW<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan149">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:522.45;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-5-5-0-5-7"
+       transform="translate(1351.9124,461.03564)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan154">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan151">3</tspan>= W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan152">3</tspan> - lr * (dLoss / dW<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan153">3</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:422.041;display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke"
+       x="196.37277"
+       y="392.56845"
+       id="text12-74-3-7-0-1-6-8"
+       transform="translate(586.98026,291.98345)"><tspan
+         x="196.37277"
+         y="392.56845"
+         id="tspan156">d = dLoss/dO<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan155">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text50"
+       style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect50);display:inline;fill:#000000;stroke-width:5.75622;paint-order:fill markers stroke" />
+  </g>
+</svg>
