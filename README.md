@@ -1,0 +1,34 @@
+# Weight update during backpropagation
+
+---
+
+TL;DR: Weight update during backpropagation makes worse training. Depending on setup, online weight update gives neglectable improvement or impairs convergence.
+#### For more details, pre-prepint: [PDF](assets/WeightsUpdateDuringBackprop.pdf)
+---
+
+
+### The conventional backpropagation and weights update approach:
+![The traditional backpropagation](assets/TraditionalBackprop.png)
+### The proposed, online approach:
+![The weight update during backpropagation](assets/OnlineBackprop.png)
+
+---
+
+This repo contains torch custom ```Linear``` and ```BatchNorm1D``` implementations which perform a SGD step before forwarding gradient to the previous layer. So it allows to experiment in this [online setup](#the-proposed-online-approach).
+Also the repo includes quick and dirty code to compare the online and the traditional approach. Both networks are initialized with the same weights and trained on the same batches.
+
+---
+### Run:
+```bash
+python3 -m venv env;
+source env/bin/activate;
+python3 -m pip install -r requirements.txt;
+# do not forget to do wandb init
+
+# we use hydra config (the conf/ dir) to manage args
+python3 main.py batch_sizes=[2,4,8] feature_pass=['triangle'] learning_rates=[0.0001] l2_lambda=[0.0]
+```
+### Tests:
+```bash
+python -m pytest -sv
+```
